@@ -2,6 +2,12 @@
 Application Project 
 
 
-Group Members: Prasan Patel 0845971, Amir Babar 0863914 
-Project Title: Amir and Pro Lux Hotel
-We decided to use our names or nicknames for the hotel project. The lux was added to show comfort and extravagant living at the hotel  
+    Group Name : Power Rangers  
+
+    Group Members : Prasan Patel 0845971 and Amir Babar 0863914 
+
+    Project Title : Pro Lux Hotel Application  
+
+    Project Scope: Hotel and motel owners will be using this application.  
+
+The lux was added to show the comfort of using the app and how extravagant the app can be. 
