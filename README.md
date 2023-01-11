@@ -8,6 +8,8 @@ Application Project
 
     Project Title : Pro Lux Hotel Application  
 
-    Project Scope: Hotel and motel owners will be using this application.  
+    Project Scope: Hotel, motel owners, mangers, clerks and clients will be using this application.  
 
 The lux was added to show the comfort of using the app and how extravagant the app can be. 
+
+    Project Properties: visual studio with .Net Framework: 4.5.2 and MSSQl. 
