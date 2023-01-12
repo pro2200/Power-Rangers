@@ -22,4 +22,4 @@ Application Project
     Individuals using the application will be hotel owners, managers, clerks, and hotel clients. 
     
     ##Project Properties: 
-    Individuals using the application will be hotel owners, managers, clerks, and hotel clients. 
+    We will use the visual studio with .NET Framework: 4.5.2 and higher, and the latest version of MSSQL database available. 
