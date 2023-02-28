@@ -1,0 +1,35 @@
+public class Clock {
+	private int hour;
+	private int minute;
+	private int second;
+
+	private static int numberOfClocks = 0;
+	
+	public Clock() {
+	this.hour = 0;
+	this.minute = 0;
+	this.second = 0;
+	
+	++numberOfClocks; 
+
+}
+
+	public Clock(int hour, int minute, int second) {
+	this.hour = hour;
+	this.minute = minute; 
+	this.second = second;
+
+	++numberOfClocks; 
+
+	@Override
+	public String toString() {
+	return this.hour + ":" + this.minutes + ":" + this.second + "\nNumberOfClocks =" + this.numberOfClocks;
+ 
+
+	return String.format("%d:%d:%d", this.hour, this.minute, this.second);
+}
+
+
+
+}
+
